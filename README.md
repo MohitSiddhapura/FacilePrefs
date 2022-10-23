@@ -83,4 +83,4 @@ Okay seems like you integrated the library in your project but **how do you use 
 That's pretty much it. Looks like your all done here.
 ## Author
 
-Mainteined by [Mohit Siddhapura](https://github.com/MohitSiddhapura)
+Maintained by [Mohit Siddhapura](https://github.com/MohitSiddhapura)
