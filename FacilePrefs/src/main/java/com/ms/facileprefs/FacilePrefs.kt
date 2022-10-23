@@ -105,7 +105,7 @@ class FacilePrefs<T : Any>(val klass: Class<T>) : ReadWriteProperty<Any?, T?> {
 
     companion object {
 
-        private var errorMessage = "Add 'MyPrefs.context = this' in Application Class"
+        private var errorMessage = "Add 'FacilePrefs.context = this' in Application Class"
         private var removeKey: String = ""
 
 
